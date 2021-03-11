@@ -8,3 +8,5 @@ matlplotlib.pyplot
 matplotlib.collections - https://matplotlib.org/3.1.1/gallery/shapes_and_collections/line_collection.html
 
 seaborn
+
+matplotlib.animations 
