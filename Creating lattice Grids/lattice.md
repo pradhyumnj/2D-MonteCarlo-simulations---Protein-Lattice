@@ -3,10 +3,9 @@
 
 Check the documentation/tutorial of these libraries out:
 
-matlplotlib.pyplot 
+matlplotlib.pyplot - Figure and Axes
 
-matplotlib.collections - https://matplotlib.org/3.1.1/gallery/shapes_and_collections/line_collection.html
+seaborn.set_style
 
-seaborn
+matplotlib.animations - Function Animation
 
-matplotlib.animations 
